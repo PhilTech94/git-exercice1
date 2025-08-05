@@ -2,3 +2,4 @@
 
 
 Ce projet est un exercice complet avec merge et rebase. 
+Contributeur : moi-même
